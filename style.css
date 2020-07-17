@@ -1,12 +1,37 @@
-<p>
-{
-    font-family; 
-}
-<body>
-{
-    text-align: left;
-    border: 5px ridge navy
-    padding: 30px
-    margins: 10px
+h1{
 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-variant: small-caps;
+    font-weight: 600 !important;
+    padding-left: 50px;
+    
+}
+.jumbotron{
+    color: #fff7e0;
+    background-color: #d6b761 !important;
+
+}
+body{
+    background-color: #fff7e0 !important;
+    font-family: Verdana, Geneva, Tahoma, sans-serif !important;
+    line-height: 1.9em !important;
+    padding-bottom: 50px;
+}
+.card{
+    border-width: 1em !important;
+    border-color: black !important;
+}
+.card-header{
+    background-color: #d6b761 !important;
+}
+.card-body{
+    background-color: #fff1c8;
+    border: black;
+}
+.nav{
+    background-color: #9e7212 !important;
+}
+a{
+  color: #fff !important;
+  padding: 20px;   
 }
